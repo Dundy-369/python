@@ -27,3 +27,4 @@ print("Height:", height)
 # Combining variables
 message = name + " is " + str(age) + " years old."
 print(message)
+print("completed")
